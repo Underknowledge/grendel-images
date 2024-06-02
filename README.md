@@ -32,6 +32,7 @@ Install mkosi:
 ```
 $ git clone https://github.com/ubccr/mkosi.git
 $ cd mkosi
+$ git fetch origin
 $ git checkout ccrdev
 $ sudo python setup.py install --prefix=/usr
 ```
